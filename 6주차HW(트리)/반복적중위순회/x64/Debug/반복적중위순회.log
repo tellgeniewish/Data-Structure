@@ -1,0 +1,4 @@
+﻿  반복적중위순회.c
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\6주차HW(트리)\반복적중위순회\반복적중위순회.c(95,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\6주차HW(트리)\반복적중위순회\반복적중위순회.c(95,10): warning C4313: 'printf': 서식 문자열의 '%d'이(가) element' 형식의 인수 1과(와) 충돌합니다.
+  반복적중위순회.vcxproj -> C:\Users\user\Desktop\J\DDWU\23-2\자료구조\6주차HW(트리)\x64\Debug\반복적중위순회.exe

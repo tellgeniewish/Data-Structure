@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터의포인터사용예제", "포인터의포인터사용예제\포인터의포인터사용예제.vcxproj", "{7F513E7B-A875-4EA0-9FE6-B331F3272D39}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "위험한코드", "위험한코드\위험한코드.vcxproj", "{BEB39586-C910-4615-B232-BC9042AE148C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "지역변수관련1", "지역변수관련1\지역변수관련1.vcxproj", "{71E6871A-E46F-4FE4-BDE8-EEC55846F6A1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "지역변수관련2", "지역변수관련2\지역변수관련2.vcxproj", "{FCF58E64-53C4-423F-8DB7-C54223C5B624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F513E7B-A875-4EA0-9FE6-B331F3272D39}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F513E7B-A875-4EA0-9FE6-B331F3272D39}.Debug|Win32.Build.0 = Debug|Win32
+		{7F513E7B-A875-4EA0-9FE6-B331F3272D39}.Release|Win32.ActiveCfg = Release|Win32
+		{7F513E7B-A875-4EA0-9FE6-B331F3272D39}.Release|Win32.Build.0 = Release|Win32
+		{BEB39586-C910-4615-B232-BC9042AE148C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BEB39586-C910-4615-B232-BC9042AE148C}.Debug|Win32.Build.0 = Debug|Win32
+		{BEB39586-C910-4615-B232-BC9042AE148C}.Release|Win32.ActiveCfg = Release|Win32
+		{BEB39586-C910-4615-B232-BC9042AE148C}.Release|Win32.Build.0 = Release|Win32
+		{71E6871A-E46F-4FE4-BDE8-EEC55846F6A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{71E6871A-E46F-4FE4-BDE8-EEC55846F6A1}.Debug|Win32.Build.0 = Debug|Win32
+		{71E6871A-E46F-4FE4-BDE8-EEC55846F6A1}.Release|Win32.ActiveCfg = Release|Win32
+		{71E6871A-E46F-4FE4-BDE8-EEC55846F6A1}.Release|Win32.Build.0 = Release|Win32
+		{FCF58E64-53C4-423F-8DB7-C54223C5B624}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FCF58E64-53C4-423F-8DB7-C54223C5B624}.Debug|Win32.Build.0 = Debug|Win32
+		{FCF58E64-53C4-423F-8DB7-C54223C5B624}.Release|Win32.ActiveCfg = Release|Win32
+		{FCF58E64-53C4-423F-8DB7-C54223C5B624}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

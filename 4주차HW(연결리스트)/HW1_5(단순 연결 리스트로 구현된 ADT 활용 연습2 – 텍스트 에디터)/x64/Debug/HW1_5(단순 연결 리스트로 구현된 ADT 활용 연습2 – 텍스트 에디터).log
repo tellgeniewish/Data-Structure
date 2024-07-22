@@ -1,0 +1,3 @@
+﻿  HW1_5(단순 연결 리스트로 구현된 ADT 활용 연습2 – 텍스트 에디터).c
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\4주차HW(연결리스트)\HW1_5(단순 연결 리스트로 구현된 ADT 활용 연습2 – 텍스트 에디터)\HW1_5(단순 연결 리스트로 구현된 ADT 활용 연습2 – 텍스트 에디터).c(42,30): warning C4013: 'get_length'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  HW1_5(단순 연결 리스트로 구현된 ADT 활용 연습2 – 텍스트 에디터).vcxproj -> C:\Users\user\Desktop\J\DDWU\23-2\자료구조\4주차HW(연결리스트)\x64\Debug\HW1_5(단순 연결 리스트로 구현된 ADT 활용 연습2 – 텍스트 에디터).exe

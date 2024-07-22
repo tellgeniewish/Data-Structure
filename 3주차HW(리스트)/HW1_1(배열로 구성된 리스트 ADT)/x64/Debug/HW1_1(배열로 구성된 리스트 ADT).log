@@ -1,0 +1,6 @@
+﻿  HW1_1(배열로 구성된 리스트 ADT).c
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\3주차HW(리스트)\HW1_1(배열로 구성된 리스트 ADT)\HW1_1(배열로 구성된 리스트 ADT).c(65,3): warning C4033: 'delete'은(는) 값을 반환해야 합니다.
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\3주차HW(리스트)\HW1_1(배열로 구성된 리스트 ADT)\HW1_1(배열로 구성된 리스트 ADT).c(78,3): warning C4033: 'get_entry'은(는) 값을 반환해야 합니다.
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\3주차HW(리스트)\HW1_1(배열로 구성된 리스트 ADT)\HW1_1(배열로 구성된 리스트 ADT).c(73): warning C4715: 'delete': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\3주차HW(리스트)\HW1_1(배열로 구성된 리스트 ADT)\HW1_1(배열로 구성된 리스트 ADT).c(81): warning C4715: 'get_entry': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  HW1_1(배열로 구성된 리스트 ADT).vcxproj -> C:\Users\user\Desktop\J\DDWU\23-2\자료구조\3주차HW(리스트)\x64\Debug\HW1_1(배열로 구성된 리스트 ADT).exe

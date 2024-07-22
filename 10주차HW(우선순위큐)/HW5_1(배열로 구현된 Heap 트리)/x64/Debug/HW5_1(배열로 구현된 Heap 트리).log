@@ -1,0 +1,9 @@
+﻿  HW5_1(배열로 구현된 Heap 트리).c
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\10주차HW(우선순위큐)\HW5_1(배열로 구현된 Heap 트리)\HW5_1(배열로 구현된 Heap 트리).c(180,3): warning C4033: 'modify_priority'은(는) 값을 반환해야 합니다.
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\10주차HW(우선순위큐)\HW5_1(배열로 구현된 Heap 트리)\HW5_1(배열로 구현된 Heap 트리).c(183,3): warning C4033: 'modify_priority'은(는) 값을 반환해야 합니다.
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\10주차HW(우선순위큐)\HW5_1(배열로 구현된 Heap 트리)\HW5_1(배열로 구현된 Heap 트리).c(255,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\10주차HW(우선순위큐)\HW5_1(배열로 구현된 Heap 트리)\HW5_1(배열로 구현된 Heap 트리).c(308,46): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\10주차HW(우선순위큐)\HW5_1(배열로 구현된 Heap 트리)\HW5_1(배열로 구현된 Heap 트리).c(308,46): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\10주차HW(우선순위큐)\HW5_1(배열로 구현된 Heap 트리)\HW5_1(배열로 구현된 Heap 트리).c(280,14): warning C4101: 'e5' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\10주차HW(우선순위큐)\HW5_1(배열로 구현된 Heap 트리)\HW5_1(배열로 구현된 Heap 트리).c(280,18): warning C4101: 'e6' :참조되지 않은 지역 변수입니다.
+  HW5_1(배열로 구현된 Heap 트리).vcxproj -> C:\Users\user\Desktop\J\DDWU\23-2\자료구조\10주차HW(우선순위큐)\x64\Debug\HW5_1(배열로 구현된 Heap 트리).exe

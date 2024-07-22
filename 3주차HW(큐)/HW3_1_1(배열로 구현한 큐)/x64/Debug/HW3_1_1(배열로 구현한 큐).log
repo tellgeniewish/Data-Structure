@@ -1,0 +1,5 @@
+﻿  HW3_1_1(배열로 구현한 큐).c
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\3주차HW(큐)\HW3_1_1(배열로 구현한 큐)\HW3_1_1(배열로 구현한 큐).c(68,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\3주차HW(큐)\HW3_1_1(배열로 구현한 큐)\HW3_1_1(배열로 구현한 큐).c(110,11): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\user\Desktop\J\DDWU\23-2\자료구조\3주차HW(큐)\HW3_1_1(배열로 구현한 큐)\HW3_1_1(배열로 구현한 큐).c(110,11): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'element'입니다.
+  HW3_1_1(배열로 구현한 큐).vcxproj -> C:\Users\user\Desktop\J\DDWU\23-2\자료구조\3주차HW(큐)\x64\Debug\HW3_1_1(배열로 구현한 큐).exe

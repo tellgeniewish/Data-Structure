@@ -1,0 +1,6 @@
+int get_Count(&QueueType q) {
+	if (q->front <= q->rear)
+		return q->rear - q->front;
+	else
+		return MAX_QUEUE_SIZE - (q->front - q->rear);
+}
